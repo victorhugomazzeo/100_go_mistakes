@@ -10,13 +10,29 @@ import (
 )
 
 func main() {
+	mistake()
+	fix()
+}
 
+func mistake() {
 	var n int
 
 	if true {
-		n, _ := strconv.Atoi("42")
-		fmt.Println("dentro do if:", n)
+		n, err := strconv.Atoi("42") // := declares a NEW n (and err) inside the if
+		fmt.Println("[mistake] dentro do if:", n, err)
 	}
 
-	fmt.Println("fora do if:", n)
+	fmt.Println("[mistake] fora do if:", n) // 0
+}
+
+func fix() {
+	var n int
+	var err error
+
+	if true {
+		n, err = strconv.Atoi("42") // = assigns to the outer n and err
+		fmt.Println("[fix] dentro do if:", n, err)
+	}
+
+	fmt.Println("[fix] fora do if:", n) // 42
 }
