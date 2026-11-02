@@ -15,8 +15,8 @@ type counterEmbedded struct {
 }
 
 type counterNotEmbedded struct {
-	n  int
 	mu sync.Mutex
+	n  int
 }
 
 func (c *counterNotEmbedded) inc() {
