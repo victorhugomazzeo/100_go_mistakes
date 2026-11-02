@@ -6,15 +6,15 @@ package main
 
 import "fmt"
 
-type userWithGetters struct {
+type userWithGettersAndSetters struct {
 	name string
 }
 
-func (u *userWithGetters) GetName() string {
+func (u *userWithGettersAndSetters) GetName() string {
 	return u.name
 }
 
-func (u *userWithGetters) SetName(name string) {
+func (u *userWithGettersAndSetters) SetName(name string) {
 	u.name = name
 }
 
@@ -23,7 +23,7 @@ type user struct {
 }
 
 func mistake() {
-	u := userWithGetters{}
+	u := userWithGettersAndSetters{}
 	u.SetName("Gopher")
 	fmt.Println("mistake:", u.GetName())
 }
