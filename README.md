@@ -18,3 +18,4 @@ go run ./001-unintended-variable-shadowing
 | 3   | Misusing init functions        | [003-misusing-init-functions](003-misusing-init-functions)             |
 | 4   | Overusing getters and setters  | [004-overusing-getters-and-setters](004-overusing-getters-and-setters) |
 | 5   | Interface pollution            | [005-interface-pollution](005-interface-pollution)                     |
+| 6   | Interface on the producer side | [006-interface-on-the-producer-side](006-interface-on-the-producer-side) |
