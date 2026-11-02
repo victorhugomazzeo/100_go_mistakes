@@ -19,3 +19,4 @@ go run ./001-unintended-variable-shadowing
 | 4   | Overusing getters and setters  | [004-overusing-getters-and-setters](004-overusing-getters-and-setters) |
 | 5   | Interface pollution            | [005-interface-pollution](005-interface-pollution)                     |
 | 6   | Interface on the producer side | [006-interface-on-the-producer-side](006-interface-on-the-producer-side) |
+| 7   | Returning interfaces           | [007-returning-interfaces](007-returning-interfaces)                   |
