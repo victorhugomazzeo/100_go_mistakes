@@ -14,3 +14,4 @@ go run ./001-unintended-variable-shadowing
 | #   | Mistake                        | Pasta                                                                 |
 | --- | ------------------------------ | --------------------------------------------------------------------- |
 | 1   | Unintended variable shadowing  | [001-unintended-variable-shadowing](001-unintended-variable-shadowing) |
+| 2   | Unnecessary nested code        | [002-unnecessary-nested-code](002-unnecessary-nested-code)             |
