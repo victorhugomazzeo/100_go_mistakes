@@ -21,3 +21,4 @@ go run ./001-unintended-variable-shadowing
 | 6   | Interface on the producer side | [006-interface-on-the-producer-side](006-interface-on-the-producer-side) |
 | 7   | Returning interfaces           | [007-returning-interfaces](007-returning-interfaces)                   |
 | 8   | any says nothing               | [008-any-says-nothing](008-any-says-nothing)                           |
+| 9   | Being confused about when to use generics | [009-being-confused-about-when-to-use-generics](009-being-confused-about-when-to-use-generics) |
