@@ -23,3 +23,4 @@ go run ./001-unintended-variable-shadowing
 | 8   | any says nothing               | [008-any-says-nothing](008-any-says-nothing)                           |
 | 9   | Being confused about when to use generics | [009-being-confused-about-when-to-use-generics](009-being-confused-about-when-to-use-generics) |
 | 10  | Not being aware of the possible problems with type embedding | [010-not-being-aware-of-the-possible-problems-with-type-embedding](010-not-being-aware-of-the-possible-problems-with-type-embedding) |
+| 11  | Not using the functional options pattern | [011-not-using-the-functional-options-pattern](011-not-using-the-functional-options-pattern) |
