@@ -1,7 +1,7 @@
 // Mistake #12: Project misorganization (the mistake)
 //
-// One type and one function split by layer into two tiny packages, named
-// after what they contain (models, services) instead of what they provide.
+// One type and one function split into two nano packages, named after what
+// they contain (models, services) instead of what they provide.
 package main
 
 import (
