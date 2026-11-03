@@ -26,3 +26,4 @@ go run ./001-unintended-variable-shadowing
 | 11  | Not using the functional options pattern | [011-not-using-the-functional-options-pattern](011-not-using-the-functional-options-pattern) |
 | 12  | Project misorganization | [012-project-misorganization](012-project-misorganization) |
 | 13  | Creating utility packages | [013-creating-utility-packages](013-creating-utility-packages) |
+| 14  | Ignoring package name collisions | [014-ignoring-package-name-collisions](014-ignoring-package-name-collisions) |
