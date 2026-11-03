@@ -24,3 +24,4 @@ go run ./001-unintended-variable-shadowing
 | 9   | Being confused about when to use generics | [009-being-confused-about-when-to-use-generics](009-being-confused-about-when-to-use-generics) |
 | 10  | Not being aware of the possible problems with type embedding | [010-not-being-aware-of-the-possible-problems-with-type-embedding](010-not-being-aware-of-the-possible-problems-with-type-embedding) |
 | 11  | Not using the functional options pattern | [011-not-using-the-functional-options-pattern](011-not-using-the-functional-options-pattern) |
+| 12  | Project misorganization | [012-project-misorganization](012-project-misorganization) |
