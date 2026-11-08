@@ -14,7 +14,10 @@
 //   - go fmt ./...:  runs gofmt -l -w on every package
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strconv"
+)
 
 func main() {
 	mistake()
@@ -22,12 +25,18 @@ func main() {
 }
 
 func mistake() {
+	age := 65
+	fmt.Println("mistake: age:", string(age)) // go vet: conversion from int to string yields a string of one rune, not a string of digits
+
 	fmt.Printf("mistake: age: %d\n", "42") // go vet: format %d has arg "42" of wrong type string
 	fmt.Println("mistake: age: %d", 42)    // go vet: Println call has possible Printf formatting directive %d
 
 }
 
 func fix() {
+	age := 65
+	fmt.Println("fix: age:", strconv.Itoa(age))
+
 	fmt.Printf("fix: age: %s\n", "42")
 	fmt.Println("fix: age:", 42)
 }
