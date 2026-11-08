@@ -27,3 +27,4 @@ go run ./001-unintended-variable-shadowing
 | 12  | Project misorganization | [012-project-misorganization](012-project-misorganization) |
 | 13  | Creating utility packages | [013-creating-utility-packages](013-creating-utility-packages) |
 | 14  | Ignoring package name collisions | [014-ignoring-package-name-collisions](014-ignoring-package-name-collisions) |
+| 15  | Missing code documentation | [015-missing-code-documentation](015-missing-code-documentation) |
