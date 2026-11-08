@@ -29,3 +29,5 @@ go run ./001-unintended-variable-shadowing
 | 14  | Ignoring package name collisions | [014-ignoring-package-name-collisions](014-ignoring-package-name-collisions) |
 | 15  | Missing code documentation | [015-missing-code-documentation](015-missing-code-documentation) |
 | 16  | Not using linters | [016-not-using-linters](016-not-using-linters) |
+| 17  | Creating confusion with octal literals | [017-creating-confusion-with-octal-literals](017-creating-confusion-with-octal-literals) |
+| 18  | Neglecting integer overflows | [018-neglecting-integer-overflows](018-neglecting-integer-overflows) |
