@@ -40,3 +40,4 @@ go run ./001-unintended-variable-shadowing
 | 25  | Unexpected side effects using slice append | [025-unexpected-side-effects-using-slice-append](025-unexpected-side-effects-using-slice-append) |
 | 26  | Slices and memory leaks | [026-slices-and-memory-leaks](026-slices-and-memory-leaks) |
 | 27  | Inefficient map initialization | [027-inefficient-map-initialization](027-inefficient-map-initialization) |
+| 28  | Maps and memory leaks | [028-maps-and-memory-leaks](028-maps-and-memory-leaks) |
