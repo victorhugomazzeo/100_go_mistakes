@@ -43,3 +43,4 @@ go run ./001-unintended-variable-shadowing
 | 28  | Maps and memory leaks | [028-maps-and-memory-leaks](028-maps-and-memory-leaks) |
 | 29  | Comparing values incorrectly | [029-comparing-values-incorrectly](029-comparing-values-incorrectly) |
 | 30  | Ignoring that elements are copied in range loops | [030-ignoring-that-elements-are-copied-in-range-loops](030-ignoring-that-elements-are-copied-in-range-loops) |
+| 31  | Ignoring how arguments are evaluated in range loops | [031-ignoring-how-arguments-are-evaluated-in-range-loops](031-ignoring-how-arguments-are-evaluated-in-range-loops) |
