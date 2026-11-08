@@ -48,3 +48,4 @@ go run ./001-unintended-variable-shadowing
 | 33  | Making wrong assumptions during map iterations | [033-making-wrong-assumptions-during-map-iterations](033-making-wrong-assumptions-during-map-iterations) |
 | 34  | Ignoring how the break statement works | [034-ignoring-how-the-break-statement-works](034-ignoring-how-the-break-statement-works) |
 | 35  | Using defer inside a loop | [035-using-defer-inside-a-loop](035-using-defer-inside-a-loop) |
+| 36  | Not understanding the concept of rune | [036-not-understanding-the-concept-of-rune](036-not-understanding-the-concept-of-rune) |
