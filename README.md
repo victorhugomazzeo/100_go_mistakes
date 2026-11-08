@@ -34,3 +34,4 @@ go run ./001-unintended-variable-shadowing
 | 19  | Not understanding floating-points | [019-not-understanding-floating-points](019-not-understanding-floating-points) |
 | 20  | Not understanding slice length and capacity | [020-not-understanding-slice-length-and-capacity](020-not-understanding-slice-length-and-capacity) |
 | 21  | Inefficient slice initialization | [021-inefficient-slice-initialization](021-inefficient-slice-initialization) |
+| 22  | Being confused about nil vs. empty slices | [022-being-confused-about-nil-vs-empty-slices](022-being-confused-about-nil-vs-empty-slices) |
