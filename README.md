@@ -32,3 +32,5 @@ go run ./001-unintended-variable-shadowing
 | 17  | Creating confusion with octal literals | [017-creating-confusion-with-octal-literals](017-creating-confusion-with-octal-literals) |
 | 18  | Neglecting integer overflows | [018-neglecting-integer-overflows](018-neglecting-integer-overflows) |
 | 19  | Not understanding floating-points | [019-not-understanding-floating-points](019-not-understanding-floating-points) |
+| 20  | Not understanding slice length and capacity | [020-not-understanding-slice-length-and-capacity](020-not-understanding-slice-length-and-capacity) |
+| 21  | Inefficient slice initialization | [021-inefficient-slice-initialization](021-inefficient-slice-initialization) |
