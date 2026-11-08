@@ -31,3 +31,4 @@ go run ./001-unintended-variable-shadowing
 | 16  | Not using linters | [016-not-using-linters](016-not-using-linters) |
 | 17  | Creating confusion with octal literals | [017-creating-confusion-with-octal-literals](017-creating-confusion-with-octal-literals) |
 | 18  | Neglecting integer overflows | [018-neglecting-integer-overflows](018-neglecting-integer-overflows) |
+| 19  | Not understanding floating-points | [019-not-understanding-floating-points](019-not-understanding-floating-points) |
