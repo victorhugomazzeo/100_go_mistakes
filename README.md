@@ -41,3 +41,5 @@ go run ./001-unintended-variable-shadowing
 | 26  | Slices and memory leaks | [026-slices-and-memory-leaks](026-slices-and-memory-leaks) |
 | 27  | Inefficient map initialization | [027-inefficient-map-initialization](027-inefficient-map-initialization) |
 | 28  | Maps and memory leaks | [028-maps-and-memory-leaks](028-maps-and-memory-leaks) |
+| 29  | Comparing values incorrectly | [029-comparing-values-incorrectly](029-comparing-values-incorrectly) |
+| 30  | Ignoring that elements are copied in range loops | [030-ignoring-that-elements-are-copied-in-range-loops](030-ignoring-that-elements-are-copied-in-range-loops) |
