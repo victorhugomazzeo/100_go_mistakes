@@ -47,3 +47,4 @@ go run ./001-unintended-variable-shadowing
 | 32  | Ignoring the impacts of using pointer elements in range loops (obsoleto desde o Go 1.22) | [032-ignoring-the-impacts-of-using-pointer-elements-in-range-loops](032-ignoring-the-impacts-of-using-pointer-elements-in-range-loops) |
 | 33  | Making wrong assumptions during map iterations | [033-making-wrong-assumptions-during-map-iterations](033-making-wrong-assumptions-during-map-iterations) |
 | 34  | Ignoring how the break statement works | [034-ignoring-how-the-break-statement-works](034-ignoring-how-the-break-statement-works) |
+| 35  | Using defer inside a loop | [035-using-defer-inside-a-loop](035-using-defer-inside-a-loop) |
