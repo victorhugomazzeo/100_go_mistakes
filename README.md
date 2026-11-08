@@ -36,3 +36,4 @@ go run ./001-unintended-variable-shadowing
 | 21  | Inefficient slice initialization | [021-inefficient-slice-initialization](021-inefficient-slice-initialization) |
 | 22  | Being confused about nil vs. empty slices | [022-being-confused-about-nil-vs-empty-slices](022-being-confused-about-nil-vs-empty-slices) |
 | 23  | Not properly checking if a slice is empty | [023-not-properly-checking-if-a-slice-is-empty](023-not-properly-checking-if-a-slice-is-empty) |
+| 24  | Not making slice copies correctly | [024-not-making-slice-copies-correctly](024-not-making-slice-copies-correctly) |
