@@ -44,3 +44,4 @@ go run ./001-unintended-variable-shadowing
 | 29  | Comparing values incorrectly | [029-comparing-values-incorrectly](029-comparing-values-incorrectly) |
 | 30  | Ignoring that elements are copied in range loops | [030-ignoring-that-elements-are-copied-in-range-loops](030-ignoring-that-elements-are-copied-in-range-loops) |
 | 31  | Ignoring how arguments are evaluated in range loops | [031-ignoring-how-arguments-are-evaluated-in-range-loops](031-ignoring-how-arguments-are-evaluated-in-range-loops) |
+| 32  | Ignoring the impacts of using pointer elements in range loops (obsoleto desde o Go 1.22) | [032-ignoring-the-impacts-of-using-pointer-elements-in-range-loops](032-ignoring-the-impacts-of-using-pointer-elements-in-range-loops) |
