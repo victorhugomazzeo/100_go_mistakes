@@ -52,3 +52,4 @@ go run ./001-unintended-variable-shadowing
 | 37  | Inaccurate string iteration | [037-inaccurate-string-iteration](037-inaccurate-string-iteration) |
 | 38  | Misusing trim functions | [038-misusing-trim-functions](038-misusing-trim-functions) |
 | 39  | Under-optimized strings concatenation | [039-under-optimized-strings-concatenation](039-under-optimized-strings-concatenation) |
+| 40  | Useless string conversions | [040-useless-string-conversions](040-useless-string-conversions) |
