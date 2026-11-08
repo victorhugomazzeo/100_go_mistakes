@@ -49,3 +49,4 @@ go run ./001-unintended-variable-shadowing
 | 34  | Ignoring how the break statement works | [034-ignoring-how-the-break-statement-works](034-ignoring-how-the-break-statement-works) |
 | 35  | Using defer inside a loop | [035-using-defer-inside-a-loop](035-using-defer-inside-a-loop) |
 | 36  | Not understanding the concept of rune | [036-not-understanding-the-concept-of-rune](036-not-understanding-the-concept-of-rune) |
+| 37  | Inaccurate string iteration | [037-inaccurate-string-iteration](037-inaccurate-string-iteration) |
