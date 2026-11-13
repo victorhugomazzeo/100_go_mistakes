@@ -54,3 +54,4 @@ go run ./001-unintended-variable-shadowing
 | 39  | Under-optimized strings concatenation | [039-under-optimized-strings-concatenation](039-under-optimized-strings-concatenation) |
 | 40  | Useless string conversions | [040-useless-string-conversions](040-useless-string-conversions) |
 | 41  | Substring and memory leaks | [041-substring-and-memory-leaks](041-substring-and-memory-leaks) |
+| 42  | Not knowing which type of receiver to use | [042-not-knowing-which-type-of-receiver-to-use](042-not-knowing-which-type-of-receiver-to-use) |
