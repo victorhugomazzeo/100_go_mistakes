@@ -53,3 +53,4 @@ go run ./001-unintended-variable-shadowing
 | 38  | Misusing trim functions | [038-misusing-trim-functions](038-misusing-trim-functions) |
 | 39  | Under-optimized strings concatenation | [039-under-optimized-strings-concatenation](039-under-optimized-strings-concatenation) |
 | 40  | Useless string conversions | [040-useless-string-conversions](040-useless-string-conversions) |
+| 41  | Substring and memory leaks | [041-substring-and-memory-leaks](041-substring-and-memory-leaks) |
