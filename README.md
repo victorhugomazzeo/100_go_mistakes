@@ -66,3 +66,4 @@ go run ./001-unintended-variable-shadowing
 | 51  | Comparing an error value inaccurately | [051-comparing-an-error-value-inaccurately](051-comparing-an-error-value-inaccurately) |
 | 52  | Handling an error twice | [052-handling-an-error-twice](052-handling-an-error-twice) |
 | 53  | Not handling an error | [053-not-handling-an-error](053-not-handling-an-error) |
+| 54  | Not handling defer errors | [054-not-handling-defer-errors](054-not-handling-defer-errors) |
