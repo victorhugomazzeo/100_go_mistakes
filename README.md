@@ -57,3 +57,4 @@ go run ./001-unintended-variable-shadowing
 | 42  | Not knowing which type of receiver to use | [042-not-knowing-which-type-of-receiver-to-use](042-not-knowing-which-type-of-receiver-to-use) |
 | 43  | Never using named result parameters | [043-never-using-named-result-parameters](043-never-using-named-result-parameters) |
 | 44  | Unintended side effects with named result parameters | [044-unintended-side-effects-with-named-result-parameters](044-unintended-side-effects-with-named-result-parameters) |
+| 45  | Returning a nil receiver | [045-returning-a-nil-receiver](045-returning-a-nil-receiver) |
