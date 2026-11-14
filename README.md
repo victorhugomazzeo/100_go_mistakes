@@ -60,3 +60,4 @@ go run ./001-unintended-variable-shadowing
 | 45  | Returning a nil receiver | [045-returning-a-nil-receiver](045-returning-a-nil-receiver) |
 | 46  | Using a filename as a function input | [046-using-a-filename-as-a-function-input](046-using-a-filename-as-a-function-input) |
 | 47  | Ignoring how defer arguments and receivers are evaluated | [047-ignoring-how-defer-arguments-and-receivers-are-evaluated](047-ignoring-how-defer-arguments-and-receivers-are-evaluated) |
+| 48  | Panicking | [048-panicking](048-panicking) |
