@@ -64,3 +64,4 @@ go run ./001-unintended-variable-shadowing
 | 49  | Ignoring when to wrap an error | [049-ignoring-when-to-wrap-an-error](049-ignoring-when-to-wrap-an-error) |
 | 50  | Comparing an error type inaccurately | [050-comparing-an-error-type-inaccurately](050-comparing-an-error-type-inaccurately) |
 | 51  | Comparing an error value inaccurately | [051-comparing-an-error-value-inaccurately](051-comparing-an-error-value-inaccurately) |
+| 52  | Handling an error twice | [052-handling-an-error-twice](052-handling-an-error-twice) |
