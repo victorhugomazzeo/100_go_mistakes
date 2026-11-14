@@ -65,3 +65,4 @@ go run ./001-unintended-variable-shadowing
 | 50  | Comparing an error type inaccurately | [050-comparing-an-error-type-inaccurately](050-comparing-an-error-type-inaccurately) |
 | 51  | Comparing an error value inaccurately | [051-comparing-an-error-value-inaccurately](051-comparing-an-error-value-inaccurately) |
 | 52  | Handling an error twice | [052-handling-an-error-twice](052-handling-an-error-twice) |
+| 53  | Not handling an error | [053-not-handling-an-error](053-not-handling-an-error) |
