@@ -56,3 +56,4 @@ go run ./001-unintended-variable-shadowing
 | 41  | Substring and memory leaks | [041-substring-and-memory-leaks](041-substring-and-memory-leaks) |
 | 42  | Not knowing which type of receiver to use | [042-not-knowing-which-type-of-receiver-to-use](042-not-knowing-which-type-of-receiver-to-use) |
 | 43  | Never using named result parameters | [043-never-using-named-result-parameters](043-never-using-named-result-parameters) |
+| 44  | Unintended side effects with named result parameters | [044-unintended-side-effects-with-named-result-parameters](044-unintended-side-effects-with-named-result-parameters) |
