@@ -67,3 +67,4 @@ go run ./001-unintended-variable-shadowing
 | 52  | Handling an error twice | [052-handling-an-error-twice](052-handling-an-error-twice) |
 | 53  | Not handling an error | [053-not-handling-an-error](053-not-handling-an-error) |
 | 54  | Not handling defer errors | [054-not-handling-defer-errors](054-not-handling-defer-errors) |
+| 55  | Mixing up concurrency and parallelism | [055-mixing-up-concurrency-and-parallelism](055-mixing-up-concurrency-and-parallelism) |
