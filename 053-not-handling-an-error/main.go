@@ -19,12 +19,13 @@ func notify() error {
 }
 
 func mistake() {
-	notify()
 	fmt.Println("mistake: order saved")
+	notify()
 }
 
 func fix() {
+	fmt.Println("fix: order saved")
+
 	// Notifications are best effort: a failed e-mail must not undo a saved order.
 	_ = notify()
-	fmt.Println("fix: order saved")
 }
