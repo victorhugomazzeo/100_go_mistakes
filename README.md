@@ -62,3 +62,4 @@ go run ./001-unintended-variable-shadowing
 | 47  | Ignoring how defer arguments and receivers are evaluated | [047-ignoring-how-defer-arguments-and-receivers-are-evaluated](047-ignoring-how-defer-arguments-and-receivers-are-evaluated) |
 | 48  | Panicking | [048-panicking](048-panicking) |
 | 49  | Ignoring when to wrap an error | [049-ignoring-when-to-wrap-an-error](049-ignoring-when-to-wrap-an-error) |
+| 50  | Comparing an error type inaccurately | [050-comparing-an-error-type-inaccurately](050-comparing-an-error-type-inaccurately) |
