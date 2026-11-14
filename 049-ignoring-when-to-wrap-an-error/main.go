@@ -33,6 +33,13 @@ func mistake() {
 	fmt.Println("mistake:", err, "| is not found?", errors.Is(err, ErrNotFound))
 }
 
+// loadOrderFix wraps the error with %w, so callers can still find ErrNotFound.
+//
+// Rule of thumb:
+//   - %w: when the inner error is part of the contract, something callers
+//     should be able to recognize (like ErrNotFound).
+//   - %v: when the inner error is an implementation detail you don't want to
+//     expose (like a database driver error); callers only get the text, for logs.
 func loadOrderFix(id int) error {
 	if err := findUser(id); err != nil {
 		return fmt.Errorf("load order %d: %w", id, err) // %w: keeps the original inside
