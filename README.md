@@ -59,3 +59,4 @@ go run ./001-unintended-variable-shadowing
 | 44  | Unintended side effects with named result parameters | [044-unintended-side-effects-with-named-result-parameters](044-unintended-side-effects-with-named-result-parameters) |
 | 45  | Returning a nil receiver | [045-returning-a-nil-receiver](045-returning-a-nil-receiver) |
 | 46  | Using a filename as a function input | [046-using-a-filename-as-a-function-input](046-using-a-filename-as-a-function-input) |
+| 47  | Ignoring how defer arguments and receivers are evaluated | [047-ignoring-how-defer-arguments-and-receivers-are-evaluated](047-ignoring-how-defer-arguments-and-receivers-are-evaluated) |
