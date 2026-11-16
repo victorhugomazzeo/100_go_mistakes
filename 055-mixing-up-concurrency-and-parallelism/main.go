@@ -14,7 +14,6 @@ import (
 func main() {
 	mistake()
 	fix()
-
 }
 
 // work simulates a heavy task that only computes (no waiting).
