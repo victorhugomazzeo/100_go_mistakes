@@ -69,3 +69,4 @@ go run ./001-unintended-variable-shadowing
 | 54  | Not handling defer errors | [054-not-handling-defer-errors](054-not-handling-defer-errors) |
 | 55  | Mixing up concurrency and parallelism | [055-mixing-up-concurrency-and-parallelism](055-mixing-up-concurrency-and-parallelism) |
 | 56  | Thinking concurrency is always faster | [056-thinking-concurrency-is-always-faster](056-thinking-concurrency-is-always-faster) |
+| 57  | Being puzzled about when to use channels or mutexes | [057-being-puzzled-about-when-to-use-channels-or-mutexes](057-being-puzzled-about-when-to-use-channels-or-mutexes) |
