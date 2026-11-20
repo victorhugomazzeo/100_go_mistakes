@@ -74,3 +74,4 @@ go run ./001-unintended-variable-shadowing
 | 59  | Not understanding the concurrency impacts of a workload type | [059-not-understanding-the-concurrency-impacts-of-a-workload-type](059-not-understanding-the-concurrency-impacts-of-a-workload-type) |
 | 60  | Misunderstanding Go contexts | [060-misunderstanding-go-contexts](060-misunderstanding-go-contexts) |
 | 61  | Propagating an inappropriate context | [061-propagating-an-inappropriate-context](061-propagating-an-inappropriate-context) |
+| 62  | Starting a goroutine without knowing when to stop it | [062-starting-a-goroutine-without-knowing-when-to-stop-it](062-starting-a-goroutine-without-knowing-when-to-stop-it) |
