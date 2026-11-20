@@ -70,3 +70,4 @@ go run ./001-unintended-variable-shadowing
 | 55  | Mixing up concurrency and parallelism | [055-mixing-up-concurrency-and-parallelism](055-mixing-up-concurrency-and-parallelism) |
 | 56  | Thinking concurrency is always faster | [056-thinking-concurrency-is-always-faster](056-thinking-concurrency-is-always-faster) |
 | 57  | Being puzzled about when to use channels or mutexes | [057-being-puzzled-about-when-to-use-channels-or-mutexes](057-being-puzzled-about-when-to-use-channels-or-mutexes) |
+| 58  | Not understanding race problems | [058-not-understanding-race-problems](058-not-understanding-race-problems) |
