@@ -72,3 +72,4 @@ go run ./001-unintended-variable-shadowing
 | 57  | Being puzzled about when to use channels or mutexes | [057-being-puzzled-about-when-to-use-channels-or-mutexes](057-being-puzzled-about-when-to-use-channels-or-mutexes) |
 | 58  | Not understanding race problems | [058-not-understanding-race-problems](058-not-understanding-race-problems) |
 | 59  | Not understanding the concurrency impacts of a workload type | [059-not-understanding-the-concurrency-impacts-of-a-workload-type](059-not-understanding-the-concurrency-impacts-of-a-workload-type) |
+| 60  | Misunderstanding Go contexts | [060-misunderstanding-go-contexts](060-misunderstanding-go-contexts) |
