@@ -73,3 +73,4 @@ go run ./001-unintended-variable-shadowing
 | 58  | Not understanding race problems | [058-not-understanding-race-problems](058-not-understanding-race-problems) |
 | 59  | Not understanding the concurrency impacts of a workload type | [059-not-understanding-the-concurrency-impacts-of-a-workload-type](059-not-understanding-the-concurrency-impacts-of-a-workload-type) |
 | 60  | Misunderstanding Go contexts | [060-misunderstanding-go-contexts](060-misunderstanding-go-contexts) |
+| 61  | Propagating an inappropriate context | [061-propagating-an-inappropriate-context](061-propagating-an-inappropriate-context) |
