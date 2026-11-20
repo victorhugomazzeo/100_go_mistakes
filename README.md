@@ -75,3 +75,4 @@ go run ./001-unintended-variable-shadowing
 | 60  | Misunderstanding Go contexts | [060-misunderstanding-go-contexts](060-misunderstanding-go-contexts) |
 | 61  | Propagating an inappropriate context | [061-propagating-an-inappropriate-context](061-propagating-an-inappropriate-context) |
 | 62  | Starting a goroutine without knowing when to stop it | [062-starting-a-goroutine-without-knowing-when-to-stop-it](062-starting-a-goroutine-without-knowing-when-to-stop-it) |
+| 63  | Not being careful with goroutines and loop variables (obsoleto desde o Go 1.22) | [063-not-being-careful-with-goroutines-and-loop-variables](063-not-being-careful-with-goroutines-and-loop-variables) |
